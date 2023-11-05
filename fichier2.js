@@ -1,3 +1,3 @@
 function afficherMessageAccueil() {
-    console.log("Bonjour");
+    console.log("Bonjour tout le monde");
 }
