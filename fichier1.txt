@@ -1,1 +1,1 @@
-Travaux Pratiques : Gestion de version avec Git/GitHub
+Travaux Pratiques : Gestion de version
